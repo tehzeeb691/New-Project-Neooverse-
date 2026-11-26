@@ -1,0 +1,20 @@
+{
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Interior-images.json#Collides": {
+            "scaleInEditor": 1
+        }
+    },
+    "map.height": 48,
+    "map.lastUsedFormat": "json",
+    "map.width": 88,
+    "openFiles": [
+    ],
+    "project": "newProject.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true
+}
